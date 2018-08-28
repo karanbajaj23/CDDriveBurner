@@ -6,7 +6,7 @@ On Windows -
 powershell.exe -noexit <path_to_ps1_file>
 
 On Mac/Linux -
-Install Powershell first (Refer: https://github.com/PowerShell/PowerShell) and hthen execute the script
+Install Powershell first (Refer: https://github.com/PowerShell/PowerShell) and then execute the script
 
 *Credits*
 https://www.adamtheautomator.com/use-powershell-to-automate-burning-cds/
