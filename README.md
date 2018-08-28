@@ -4,7 +4,6 @@ Powershell script to automatically burn CDs of folders present inside a parent f
 *Command*
 On Windows -
 powershell.exe -noexit <path_to_ps1_file>
-
 On Mac/Linux -
 Install Powershell first (Refer: https://github.com/PowerShell/PowerShell) and then execute the script
 
